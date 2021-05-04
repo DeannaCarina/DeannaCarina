@@ -26,3 +26,11 @@ h2 {
     border-radius: 3%;
     margin: 10% auto;
 }
+
+a:hover {
+    color:rgb(153, 153, 153)
+}
+
+a {
+    color: rgb(63, 62, 62);
+}
