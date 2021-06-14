@@ -4,12 +4,12 @@
 <ul>
     <li><a href="#Introduction"></a>Introduction</li>
     <li><a href="#UX"></a>UX</li>
-    <li><a href="#Technologies"></a>Technologies</li>
-    <li><a href="#Features"></a>Features</li>
-    <li><a href="#Testing"></a>Testing</li>
-    <li><a href="#Deployment"></a>Deployment</li>
-    <li><a href="#Credits"></a>Credits</li>
-    <li><a href="#Screenshots"></a>Screenshots</li>
+    <li><a href="#Technologies">Technologies</a></li>
+    <li><a href="#Features">Features</a></li>
+    <li><a href="#Testing">Testing</a></li>
+    <li><a href="#Deployment">Deployment</a></li>
+    <li><a href="#Credits">Credits</a></li>
+    <li><a href="#Screenshots">Screenshots</a></li>
 </ul>
 
 ## Introduction
