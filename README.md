@@ -42,4 +42,4 @@ The wireframes for this website were made using Balsamiq. Wireframes were made f
 ## Credits
 
 ## Screenshots
-<img src="assets/page-screenshot.png" alt="Wireframe image of desktop site" height="300px"><img src="assets/small-screen-screenshot.png" alt="Wireframe image of mobile site" height="300px">
+<img src="assets/page-screenshot.png" alt="Wireframe image of desktop site" height="300px">  <img src="assets/small-screen-screenshot.png" alt="Wireframe image of mobile site" height="300px">
