@@ -25,6 +25,10 @@ A live demo of the website can be found <a href="https://www.deannacarina.com/">
 ### Scope
 ### Structure
 ### Steleton
+The wireframes for this website were made using Balsamiq. Wireframes were made for deskptop and mobile versions. Final website may differ slightly from the wireframes.<br><br>
+<img src="assets/desktop-wire.png" alt="Wireframe image of desktop site"><br><br>
+<img src="assets/phone-wire.png" alt="Wireframe image of mobile site">
+
 ### Surface
 
 ## Technologies
