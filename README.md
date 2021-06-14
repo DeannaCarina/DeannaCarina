@@ -26,8 +26,7 @@ A live demo of the website can be found <a href="https://www.deannacarina.com/">
 ### Structure
 ### Steleton
 The wireframes for this website were made using Balsamiq. Wireframes were made for deskptop and mobile versions. Final website may differ slightly from the wireframes.<br><br>
-<img src="assets/desktop-wire.png" alt="Wireframe image of desktop site" width="100%"><br><br>
-<img src="assets/phone-wire.png" alt="Wireframe image of mobile site" width="30%">
+<img src="assets/desktop-wire.png" alt="Wireframe image of desktop site" height="350px">  <img src="assets/phone-wire.png" alt="Wireframe image of mobile site" height="350px">
 
 ### Surface
 
