@@ -2,8 +2,8 @@
 
 ## Contents
 <ul>
-    <li><a href="#Introduction"></a>Introduction</li>
-    <li><a href="#UX"></a>UX</li>
+    <li><a href="#Introduction">Introduction</a></li>
+    <li><a href="#UX">UX</a></li>
     <li><a href="#Technologies">Technologies</a></li>
     <li><a href="#Features">Features</a></li>
     <li><a href="#Testing">Testing</a></li>
