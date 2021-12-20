@@ -1,8 +1,8 @@
 ### Hi there, I'm Deanna 👋 
 
-<a href="https://deannacarina.github.io/Resume/"><img  alt="Resume" width="26px" src="assets/resume.png" /></a>
-<a href="https://www.facebook.com/DeannaCarina/"><img  alt="Facebook" width="26px" src="assets/facebook.png" /></a>
-<a href="https://www.linkedin.com/in/deannacarina/"><img  alt="LinkedIn" width="26px" src="assets/linkedin.png" /></a>
+<a href="https://deannacarina.github.io/Resume/"><img  alt="Resume" width="26px" src="assets/resume.png" /> Resume</a><br>
+<a href="https://www.facebook.com/DeannaCarina/"><img  alt="Facebook" width="26px" src="assets/facebook.png" /> Facebook</a><br>
+<a href="https://www.linkedin.com/in/deannacarina/"><img  alt="LinkedIn" width="26px" src="assets/linkedin.png" /> LinkedIn</a><br>
 
 ## I'm a wife-to-be, dog-mother, learner, and carer.
 
@@ -14,21 +14,7 @@
 
 ### Languages and Tools:
 
-<img  alt="Visual Studio Code" width="26px" src="assets/vs.png" />
-<img alt="HTML5" width="26px" src="assets/html.png" />
-<img alt="CSS3" width="26px" src="assets/css.png" />
-<img alt="Bootstrap" width="26px" src="assets/bootstrap.png" />
-
-<img alt="JavaScript" width="26px" src="assets/js.png" />
-
-<img alt="Python" width="26px" src="assets/python.png" />
-<img alt="Flask" width="26px" src="assets/flask.png" />
-<img alt="Django" width="26px" src="assets/django.png" />
-
-<img alt="PostgreSQL" width="26px" src="assets/postgres.png" />
-<img alt="Git" width="26px" src="assets/git.png" />
-<img alt="GitHub" width="26px" src="assets/github.png" />
-<img alt="Terminal" width="26px" src="assets/terminal.png" />
+<img  alt="Visual Studio Code" width="26px" src="assets/vs.png" /><img alt="HTML5" width="26px" src="assets/html.png" /><img alt="CSS3" width="26px" src="assets/css.png" /><img alt="Bootstrap" width="26px" src="assets/bootstrap.png" /><img alt="JavaScript" width="26px" src="assets/js.png" /><img alt="Python" width="26px" src="assets/python.png" /><img alt="Flask" width="26px" src="assets/flask.png" /><img alt="Django" width="26px" src="assets/django.png" /><img alt="PostgreSQL" width="26px" src="assets/postgres.png" /><img alt="Git" width="26px" src="assets/git.png" /><img alt="GitHub" width="26px" src="assets/github.png" /><img alt="Terminal" width="26px" src="assets/terminal.png" />
 
 <br />
 <br />
