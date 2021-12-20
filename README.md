@@ -1,8 +1,8 @@
 ### Hi there, I'm Deanna 👋 
 
-[![Resume](https://deannacarina.github.io/Resume/)](https://deannacarina.github.io/Resume/)
-[![Facebook](https://www.facebook.com/DeannaCarina/)](https://www.facebook.com/DeannaCarina/)
-[![LinikedIn](https://www.linkedin.com/in/deannacarina/)](https://www.linkedin.com/in/deannacarina/)
+<a href="https://deannacarina.github.io/Resume/"><img  alt="Resume" width="26px" src="assets/resume.png" /></a>
+<a href="https://www.facebook.com/DeannaCarina/"><img  alt="Facebook" width="26px" src="assets/facebook.png" /></a>
+<a href="https://www.linkedin.com/in/deannacarina/"><img  alt="LinkedIn" width="26px" src="assets/linkedin.png" /></a>
 
 ## I'm a wife-to-be, dog-mother, learner, and carer.
 
@@ -12,38 +12,23 @@
 - 🥅 2022 Goals: Graduate from Code Institute with a passing grade, Gain my first junior dev role, be a part of numerous collaborative projects.
 - ⚡ Fun fact: I love to design and make craft projects from scratch
 
-### Connect with me:
-
-[<img align="left" alt="Resume" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://deannacarina.github.io/Resume/]
-[<img align="left" alt="DeannaCarina | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.facebook.com/DeannaCarina/]
-[<img align="left" alt="DeannaCarina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://www.linkedin.com/in/deannacarina/]
-[<img align="left" alt="DeannaCarina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.instagram.com/deannacarina/]
-
-
-<br />
-
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="assets/vs.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="assets/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="assets/css.png" />][cssplaylist]
-[<img align="left" alt="Bootstrap" width="26px" src="assets/bootstrap.png" />][cssplaylist]
+<img  alt="Visual Studio Code" width="26px" src="assets/vs.png" />
+<img alt="HTML5" width="26px" src="assets/html.png" />
+<img alt="CSS3" width="26px" src="assets/css.png" />
+<img alt="Bootstrap" width="26px" src="assets/bootstrap.png" />
 
-[<img align="left" alt="JavaScript" width="26px" src="assets/js.png" />][jsplaylist]
+<img alt="JavaScript" width="26px" src="assets/js.png" />
 
+<img alt="Python" width="26px" src="assets/python.png" />
+<img alt="Flask" width="26px" src="assets/flask.png" />
+<img alt="Django" width="26px" src="assets/django.png" />
 
-
-[<img align="left" alt="Python" width="26px" src="assets/python.png" />][pythonplaylist]
-[<img align="left" alt="Flask" width="26px" src="assets/flask.png" />][pythonplaylist]
-[<img align="left" alt="Django" width="26px" src="assets/django.png" />][pythonplaylist]
-
-
-
-
-[<img align="left" alt="PostgreSQL" width="26px" src="assets/postgres.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="assets/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="assets/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="assets/terminal.png" />][webdevplaylist]
+<img alt="PostgreSQL" width="26px" src="assets/postgres.png" />
+<img alt="Git" width="26px" src="assets/git.png" />
+<img alt="GitHub" width="26px" src="assets/github.png" />
+<img alt="Terminal" width="26px" src="assets/terminal.png" />
 
 <br />
 <br />
