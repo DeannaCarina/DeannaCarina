@@ -1,44 +1,49 @@
-# DeannaCarina
+### Hi there, I'm Deanna 👋 
 
-## Contents
-<ul>
-    <li><a href="#Introduction">Introduction</a></li>
-    <li><a href="#UX">UX</a></li>
-    <li><a href="#Technologies">Technologies</a></li>
-    <li><a href="#Features">Features</a></li>
-    <li><a href="#Testing">Testing</a></li>
-    <li><a href="#Deployment">Deployment</a></li>
-    <li><a href="#Credits">Credits</a></li>
-    <li><a href="#Screenshots">Screenshots</a></li>
-</ul>
+[![Resume](https://deannacarina.github.io/Resume/)](https://deannacarina.github.io/Resume/)
+[![Facebook](https://www.facebook.com/DeannaCarina/)](https://www.facebook.com/DeannaCarina/)
+[![LinikedIn](https://www.linkedin.com/in/deannacarina/)](https://www.linkedin.com/in/deannacarina/)
 
-## Introduction
+## I'm a wife-to-be, dog-mother, learner, and carer.
 
-This is a webpage to secure the domain name of "DeannaCarina.com" it is not a resume or a portfolio of work, however it has the potential to become that in the future.
-At the moment it's main purpose is to redirect people to my other social media/software development platforms: <a href="https://www.facebook.com/DeannaCarina" target="_blank">Facebook</a>, <a href="https://github.com/DeannaCarina" target="_blank">GitHub</a>, and <a href="https://www.linkedin.com/in/deannacarina/" target="_blank">LinkedIn</a>.<br><br>
-A live demo of the website can be found <a href="https://www.deannacarina.com/"><strong>HERE</strong></a><br>
-<img src="assets/responsive.png" alt="Image showing responsiveness of webpage" width="100%">
-<br>
+- 🔭 I started a full-stack software development course in May 2021: [Code Institute][https://codeinstitute.net/]!
+- 🌱 I’m currently trying to learn as much as I can to allow me to gain my first junior software dev role.
+- 👯 I’m looking to collaborate with other content creators on small projects.
+- 🥅 2022 Goals: Graduate from Code Institute with a passing grade, Gain my first junior dev role, be a part of numerous collaborative projects.
+- ⚡ Fun fact: I love to design and make craft projects from scratch
 
-## UX
-### Strategy
-### Scope
-### Structure
-### Steleton
-The wireframes for this website were made using Balsamiq. Wireframes were made for deskptop and mobile versions. Final website may differ slightly from the wireframes.<br><br>
-<img src="assets/desktop-wire.png" alt="Wireframe image of desktop site" height="350px">  <img src="assets/phone-wire.png" alt="Wireframe image of mobile site" height="350px">
+### Connect with me:
 
-### Surface
+[<img align="left" alt="Resume" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://deannacarina.github.io/Resume/]
+[<img align="left" alt="DeannaCarina | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.facebook.com/DeannaCarina/]
+[<img align="left" alt="DeannaCarina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://www.linkedin.com/in/deannacarina/]
+[<img align="left" alt="DeannaCarina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.instagram.com/deannacarina/]
 
-## Technologies
 
-## Features
+<br />
 
-## Testing
+### Languages and Tools:
 
-## Deployment
+[<img align="left" alt="Visual Studio Code" width="26px" src="assets/vs.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="assets/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="assets/css.png" />][cssplaylist]
+[<img align="left" alt="Bootstrap" width="26px" src="assets/bootstrap.png" />][cssplaylist]
 
-## Credits
+[<img align="left" alt="JavaScript" width="26px" src="assets/js.png" />][jsplaylist]
 
-## Screenshots
-<img src="assets/page-screenshot.png" alt="Wireframe image of desktop site" height="300px">  <img src="assets/small-screen-screenshot.png" alt="Wireframe image of mobile site" height="300px">
+
+
+[<img align="left" alt="Python" width="26px" src="assets/python.png" />][pythonplaylist]
+[<img align="left" alt="Flask" width="26px" src="assets/flask.png" />][pythonplaylist]
+[<img align="left" alt="Django" width="26px" src="assets/django.png" />][pythonplaylist]
+
+
+
+
+[<img align="left" alt="PostgreSQL" width="26px" src="assets/postgres.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="assets/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="assets/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="assets/terminal.png" />][webdevplaylist]
+
+<br />
+<br />
