@@ -4,13 +4,12 @@
 <a href="https://www.facebook.com/DeannaCarina/"><img  alt="Facebook" height="24px" src="assets/facebook.png" /> Facebook</a><br>
 <a href="https://www.linkedin.com/in/deannacarina/"><img  alt="LinkedIn" height="24px" src="assets/linkedin.png" /> LinkedIn</a><br>
 
-## I'm a wife-to-be, dog-mother, learner, and carer.
+## Dog-mother, learner, and carer.
 
-- 🔭 I started a full-stack software development course in May 2021: [Code Institute][https://codeinstitute.net/]!
-- 🌱 I’m currently trying to learn as much as I can to allow me to gain my first junior software dev role.
+- 🔭 I started a full-stack software development course in May 2021: [Code Institute][https://codeinstitute.net/]! Completed in August 2022.
+- 🌱 I’m currently trying to learn as much as I can to allow me to gain my first junior software dev/apprentice dev role.
 - 👯 I’m looking to collaborate with other content creators on small projects.
-- 🥅 2022 Goals: Graduate from Code Institute with a passing grade, Gain my first junior dev role, be a part of numerous collaborative projects.
-- ⚡ Fun fact: I love to design and make craft projects from scratch
+- ⚡ Fun fact: I love to design and make craft projects from scratch.
 
 ### Languages and Tools:
 
