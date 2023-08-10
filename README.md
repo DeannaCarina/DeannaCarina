@@ -6,8 +6,8 @@
 
 ## Dog-mother, learner, and carer.
 
-- 🔭 I started a full-stack software development course in May 2021: [Code Institute][https://codeinstitute.net/]! Completed in August 2022.
-- 🌱 I’m currently trying to learn as much as I can to allow me to gain my first junior software dev/apprentice dev role.
+- 🔭 Software development has been a hobby of mine for the best part of 10 years.
+- 🌱 I’m due to step into the software industry as a career in Aug2023 after spending 12 years in the NHS.
 - 👯 I’m looking to collaborate with other content creators on small projects.
 - ⚡ Fun fact: I love to design and make craft projects from scratch.
 
