@@ -6,8 +6,8 @@
 
 ## Dog-mother, learner, and carer.
 
-- 🔭 Software development has been a hobby of mine for the best part of 10 years.
-- 🌱 I’m due to step into the software industry as a career in Aug2023 after spending 12 years in the NHS.
+- 🔭 Software development has been a hobby of mine for the best part of 15 years.
+- 🌱 I have worked in the software industry since August 2023, after spending 12 years in the NHS.
 - 👯 I’m looking to collaborate with other content creators on small projects.
 - ⚡ Fun fact: I love to design and make craft projects from scratch.
 
