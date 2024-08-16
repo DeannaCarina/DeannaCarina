@@ -22,14 +22,14 @@
 <img alt="Bootstrap" height="30px" src="assets/bootstrap.png" />    
 <img alt="JavaScript" height="30px" src="assets/js.png" />    
 
-<img alt="PHP" height="30px" src="assets/phplogo" />  
-<img alt="C sharp" height="30px" src="assets/csharpicon" />  
+<img alt="PHP" height="30px" src="assets/phplogo.png" />  
+<img alt="C sharp" height="30px" src="assets/csharpicon.png" />  
 <img alt="Python" height="30px" src="assets/python.png" />    
 <img alt="Flask" height="30px" src="assets/flask.png" />    
 <img alt="Django" height="30px" src="assets/django.png" />    
-<img alt="Java" height="30px" src="assets/javaicon" />  
+<img alt="Java" height="30px" src="assets/javaicon.png" />  
 <img alt="PostgreSQL" height="30px" src="assets/postgres.png" />    
-<img alt="SQL" height="30px" src="assets/sqllogo" />   
+<img alt="SQL" height="30px" src="assets/sqllogo.png" />   
 
 <img alt="Git" height="30px" src="assets/gitlogo.png" />    
 <img alt="GitHub" height="30px" src="assets/github.png" />    
